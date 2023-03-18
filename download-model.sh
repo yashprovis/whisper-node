@@ -1,4 +1,4 @@
-cd ./lib/whisper.app/models/
+cd ./lib/whisper.cpp/models/
 echo "[whisper-node] Attemping to download model..."
 download-ggml-model.sh base.en
 echo "[whisper-node] Attempting to compile model..."
